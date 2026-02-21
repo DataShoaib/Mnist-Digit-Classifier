@@ -1,0 +1,14 @@
+Dataset Name: MNIST Handwritten Digits
+
+Source:
+Keras Built-in Dataset
+
+Description:
+- 70,000 grayscale images of handwritten digits
+- Image size: 28x28 pixels
+- Training samples: 60,000
+- Testing samples: 10,000
+- Number of classes: 10 (digits 0–9)
+- Pixel value range: 0–255
+
+Each image represents a single handwritten digit.
